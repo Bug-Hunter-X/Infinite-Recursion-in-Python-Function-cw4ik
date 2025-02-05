@@ -1,0 +1,1 @@
+This repository contains a Python function with an infinite recursion bug and its solution. The bug occurs when a negative number is passed as an argument to the function, leading to a stack overflow error. The solution introduces a base case to handle negative inputs.
